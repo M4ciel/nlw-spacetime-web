@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="./public/logo_nlw_spacetime.png" alt="NlwSpacetime" width="200"></a>
+  <a href=""><img src="./src/assets/nlw-spacetime-logo.svg" alt="NlwSpacetime" width="200"></a>
   <br>
   NLW Spacetime Web
   <br>
@@ -32,7 +32,7 @@
   <a href="#licença">Licença</a>
 </p>
 
-![screenshot](./public/wallpaper.png)
+![screenshot](./src/assets/wallpaper.png)
 
 ## Tecnologias
 
